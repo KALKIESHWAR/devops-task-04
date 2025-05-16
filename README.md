@@ -1,4 +1,3 @@
-# DevOps Task 04 - Git Version Control  
-**Description**: A version-controlled project demonstrating Git workflows.  
-**Branches**: `main`, `dev`, `feature/*`  
-**How to Run**: `python app.py`  
+# DevOps Task 04 - Git Version Control
+**Description**: A basic DevOps project demonstrating Git version control, branching, and tagging.
+**How to Run**: `python app.py`
